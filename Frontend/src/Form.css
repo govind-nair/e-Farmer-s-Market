@@ -1,0 +1,17 @@
+.demoForm {
+	width: 500px;
+	margin: auto;
+color:black;
+font-size:16px;
+	
+}
+
+.image{
+
+	background-image: 
+	url('/assets/images/table.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+	
+
+}
